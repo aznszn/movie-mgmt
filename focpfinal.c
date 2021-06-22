@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+#include <conio.h>
 
 int ynmenu(char[]);
 void adminmenu();
@@ -38,7 +39,6 @@ void login()
 	FILE *passwords;
 	unames=fopen("users.txt","r");
 	fflush(stdin);
-
 	printf("\n\n\n\t\t\t\t    Welcome to the movie database\n\n\n\n\t\t\t\t\tUsername: ");
 	gets(CurrentUser);
 
@@ -723,14 +723,13 @@ void SearchByDirector()
 			i=getc(MovieDetails);
 		}
 	
-		for(j=0;j<99;j++)
-			dirInDetails[j]='\0';
-		
 		j=0;
 		while(i!='\n'){
 			dirInDetails[j++]=i;
 			i=getc(MovieDetails);
 		}
+		
+		dirInDetails[j] = '\0';
 		
 		if(!strcmp(director,dirInDetails)){
 			found++;
@@ -758,7 +757,6 @@ void SearchByDirector()
 
 		i=getc(MovieDetails);
 		i=getc(MovieDetails);
-		num=0;
 	}
 	if(found ==0)
 		printf("\nNo movies found\n\nPress any key to exit search");
