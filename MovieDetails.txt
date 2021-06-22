@@ -1,0 +1,126 @@
+Year: 1998
+Runtime: 1h59m
+Director: Coen Brothers
+Cast: Jeff Bridges, John Goodman, Steve Buscemi
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 83
+\
+Year: 1993
+Runtime: 1h43m
+Director: Richard Linklater
+Cast: Ben Affleck, Jason London, Parker Rosey
+IMDb Rating: 7/10
+Rotten Tomatoes Rating: 92
+\
+Year: 1996
+Runtime: 1h35m
+Director: Danny Boyle
+Cast: Ewan McGregor
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 91
+\
+Year: 2019
+Runtime: 3h30m
+Director: Martin Scorsese
+Cast: Robert De Niro, Al Pacino, Joe Pesci
+IMDb Rating: 7/10
+Rotten Tomatoes Rating: 95
+\
+Year: 2007
+Runtime: 2h38m
+Director: Paul Thomas Anderson
+Cast: Daniel Day-Lewish
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 92
+\
+Year: 1992
+Runtime: 1h40m
+Director: Quentin Tarantino
+Cast: Michael Madsen, Steve Buscemi, Tim Roth
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 92
+\
+Year: 2011
+Runtime: 1h35m
+Director: Nicolas Winding Refn
+Cast: Ryan Gosling, Carey Mulligan, Ron Perlman
+IMDb Rating: 7/10
+Rotten Tomatoes Rating: 92
+\
+Year: 2017
+Runtime: 2h44m
+Director: Denis Villeneuve
+Cast: Ryan Gosling, Harrison Ford
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 88
+\
+Year: 2000
+Runtime: 1h42m
+Director: Marry Harron
+Cast: Christian Bale, Willem Dafoe, Jared Leto
+IMDb Rating: 7/10
+Rotten Tomatoes Rating: 70
+\
+Year: 1958
+Runtime: 1h36m
+Director: Ingmar Bergman
+Cast: Max Von Sydow
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 93
+\
+Year: 2004
+Runtime: 1h20m
+Director: Richard Linklater
+Cast: Julie Delpy, Ethan Hawke
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 95
+\
+Year: 1995
+Runtime: 1h45m
+Director: Richard Linklater
+Cast: Ethan Hawke, Julie Delpy
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 100
+\
+Year: 2013
+Runtime: 1h49m
+Director: Richard Linklater
+Cast: Julie Delpy, Ethan Hawke
+IMDb Rating: 7/10
+Rotten Tomatoes Rating: 98
+\
+Year: 2001
+Runtime: 1h49m
+Director: Richard Linklater
+Cast: Richard Linklater, Ethan Hawke, Julie Delpy
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 90
+\
+Year: 1994
+Runtime: 1h4m
+Director: David Fincher
+Cast: Brad Pitt
+IMDb Rating: 9/10
+Rotten Tomatoes Rating: 90
+\
+Year: 1960
+Runtime: 1h49m
+Director: Alfred Hitchcock
+Cast: Joseph Stephano
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 96
+\
+Year: 1958
+Runtime: 2h9m
+Director: Alfred Hitchcock
+Cast: Kim Novak, James Stewart
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 94
+\
+Year: 1997
+Runtime: 1h30m
+Director: Hideaki Anno
+Cast: Spike Spencer, Megumi Ogata
+IMDb Rating: 8/10
+Rotten Tomatoes Rating: 88
+\
